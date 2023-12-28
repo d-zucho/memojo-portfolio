@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import Hero from './components/Hero'
+;('react-type-animation')
 
 export default function Home() {
   return (
